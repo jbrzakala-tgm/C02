@@ -2,6 +2,6 @@ package GIT;
 
 public class hello {
 	public static void hello1(){
-		System.out.println("hello");
+		System.out.println("hello 3CHIT!");
 	}
 }
