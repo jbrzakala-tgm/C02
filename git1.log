@@ -1,0 +1,41 @@
+commit c7c197f1985cb2101f9626b920e184c4136310c9
+Author: jbrzakala <jbrzakala@student.tgm.ac.at>
+Date:   Mon Jan 30 13:08:55 2017 +0100
+
+    version 2
+
+ src/GIT/hello.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 1abaa54af744d94d3ceae919cbe34da22210b1e9
+Author: jbrzakala <jbrzakala@student.tgm.ac.at>
+Date:   Mon Jan 30 12:59:33 2017 +0100
+
+    fertig1
+
+ src/GIT/hello.java  |  7 +++++++
+ src/GIT/julian.java | 11 -----------
+ src/GIT/main.java   |  7 +++++++
+ 3 files changed, 14 insertions(+), 11 deletions(-)
+
+commit 3cd8ebe20d631f145bda44912ec1d58b5c3dab22
+Author: jbrzakala <jbrzakala@student.tgm.ac.at>
+Date:   Mon Jan 30 10:48:54 2017 +0100
+
+    4 Mal
+
+ src/GIT/julian.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit ffe3c7414ca6c91b7ef52e1778e7a36ebe311e9e
+Author: jbrzakala <jbrzakala@student.tgm.ac.at>
+Date:   Mon Jan 30 10:45:53 2017 +0100
+
+    2version
+
+ .classpath                           |  6 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 +++++++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 +++++++++++
+ src/GIT/julian.java                  | 10 ++++++++++
+ 5 files changed, 45 insertions(+)
